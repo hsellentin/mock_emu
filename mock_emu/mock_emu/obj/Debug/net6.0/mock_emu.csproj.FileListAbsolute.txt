@@ -1,0 +1,15 @@
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\bin\Debug\net6.0\mock_emu.exe
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\bin\Debug\net6.0\mock_emu.deps.json
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\bin\Debug\net6.0\mock_emu.runtimeconfig.json
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\bin\Debug\net6.0\mock_emu.dll
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\bin\Debug\net6.0\mock_emu.pdb
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.csproj.AssemblyReference.cache
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.AssemblyInfoInputs.cache
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.AssemblyInfo.cs
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.csproj.CoreCompileInputs.cache
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.dll
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\refint\mock_emu.dll
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.pdb
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\mock_emu.genruntimeconfig.cache
+C:\Users\hsellentin\Documents\mock_emu\mock_emu\mock_emu\obj\Debug\net6.0\ref\mock_emu.dll
